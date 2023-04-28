@@ -6,8 +6,12 @@ _Do not implement and execute these on a network or system you do not own. Execu
 
 ## Scripts
 
-- [x] [Network](network)
-- [x] [System](system)
+- [Enum](enum)
+- [System](system)
+- [Bruteforce](bruteforce)
+- [Cred dumping](creds)
+- [Network](network)
+
 
 ## Problems or Suggestions
 
