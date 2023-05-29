@@ -11,6 +11,7 @@ _Do not implement and execute these on a network or system you do not own. Execu
 - [Enum](enum)
 - [System](system)
 - [Bruteforce](bruteforce)
+- [Accounts](accounts)
 - [Cred dumping](creds)
 - [Network](network)
 
